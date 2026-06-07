@@ -1,7 +1,6 @@
 # CSoT Low Latency Track - Week 1 Submission
 
 **Author:** Aman Dangar (2025TT11556)  
-**Final Leaderboard Rank:** #1  
 **Final Score:** 177.3  
 **p50 Latency:** 18 ns  
 **p99 Latency:** 38 ns  
