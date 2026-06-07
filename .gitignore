@@ -1,0 +1,6 @@
+build/
+*.csv
+*.so
+!spec_strategy.so
+.DS_Store
+__pycache__/
